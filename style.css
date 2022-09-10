@@ -5,7 +5,7 @@ a {
 	font-size: 25px;
 	text-decoration: none;
 	color: black;
-	font-family: monospace;
+	font-family: Verdana, sans-serif;
 }
 
 .top {
@@ -14,4 +14,8 @@ a {
 
 .indent {
 	margin-left: 30px;
+}
+
+.center {
+	margin-top: 70px;
 }
