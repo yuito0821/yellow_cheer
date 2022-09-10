@@ -1,0 +1,17 @@
+a {
+	background-color: #ceb849;
+	border: 1px solid #ceb849;
+	border-radius: 10px;
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: monospace;
+}
+
+.top {
+	margin-top: 50px;
+}
+
+.indent {
+	margin-left: 30px;
+}
